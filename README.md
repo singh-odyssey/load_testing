@@ -84,3 +84,11 @@ The script will interactively ask for:
 - **`setup.sh`**: Automated installation and configuration script.
 - **`dashboard.py`**: (Optional) Visualization tool for bot statistics.
 
+## 🧠 Architecture Documentation
+
+A deeper architectural walkthrough is available in [ARCHITECTURE.md](ARCHITECTURE.md), including:
+- system overview and component responsibilities
+- runtime flow for load testing and browser simulation
+- technology stack details for Tor, Selenium, Requests, and concurrency
+- how the monitor/dashboard consumes bot stats
+
